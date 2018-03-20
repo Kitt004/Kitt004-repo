@@ -1,2 +1,2 @@
 # Multiple_code
-Learning code
+This is a mash-up of different codes. My learning path.
