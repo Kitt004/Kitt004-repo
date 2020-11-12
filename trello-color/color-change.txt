@@ -34,10 +34,6 @@ $(document).ready(function() {
     $('body').hover(function() {
 
     console.log('Hey! Trello color cards script is running...');
-    console.log('â–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’ Loading colours...');
-    console.log('â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’ Loading colours...');
-    console.log('â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’ Loading colours...');
-    console.log('â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ Loading colours...');
     console.log('Colors loaded!');
       
         $("textarea:contains('BACKLOG')")
