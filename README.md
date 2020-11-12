@@ -1,6 +1,6 @@
-# Project Title
+# Pojects
 
-One Paragraph of project description goes here
+This repository is a bunch of self-projects to make my IT life easier and a little bit more fancy.
 
 ## Getting Started
 
