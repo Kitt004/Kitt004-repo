@@ -3,8 +3,9 @@
 # In Command, run the following
 # "py -m pip install pyautogui"
 # 
-# FULL INSTRUCTIONS HERE
-# https://pyautogui.readthedocs.io/en/latest/install.html#
+#
+# Have fun exploring this automated library
+# https://pyautogui.readthedocs.io/en/latest/index.html
 # ------------------------------------------------
 
 import pyautogui as pag
