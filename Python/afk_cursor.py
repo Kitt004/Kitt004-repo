@@ -1,5 +1,5 @@
 # ------------------------------------------------
-# To run this, needs to intsall the pyautogui
+# To run this, needs to install the pyautogui
 # In Command, run the following
 # "py -m pip install pyautogui"
 # 
