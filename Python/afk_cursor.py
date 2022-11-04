@@ -2,6 +2,9 @@
 # To run this, needs to intsall the pyautogui
 # In Command, run the following
 # "py -m pip install pyautogui"
+# 
+# FULL INSTRUCTIONS HERE
+# https://pyautogui.readthedocs.io/en/latest/install.html#
 # ------------------------------------------------
 
 import pyautogui as pag
