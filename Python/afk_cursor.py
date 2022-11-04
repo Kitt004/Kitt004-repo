@@ -1,3 +1,9 @@
+# ------------------------------------------------
+# To run this, needs to intsall the pyautogui
+# In Command, run the following
+# "py -m pip install pyautogui"
+# ------------------------------------------------
+
 import pyautogui as pag
 import random
 import time
