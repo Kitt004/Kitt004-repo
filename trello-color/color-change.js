@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Add color backgrounds to Trello cards.
 // @author       Kitt004
-// @homepageURL  https://github.com/Kitt004/Kitt004-repo/blob/master/trello-color/color-change.txt
+// @homepageURL  https://github.com/Kitt004
 // @include      https://trello.com/*
 // @require      https://code.jquery.com/jquery-3.2.1.min.js
 // @grant        none
