@@ -36,40 +36,40 @@ $(document).ready(function() {
     console.log('Hey! Trello color cards script is running...');
     console.log('Colors loaded!');
       
-        $("textarea:contains('BACKLOG')")
+        $("textarea:contains('1')")
         .css('color', white)
         .parents('.list').css('background', black)
         .addClass('js-dark-list');
       
-        $("textarea:contains('ON GOING')")
+        $("textarea:contains('2')")
         .parents('.list').css('background', red);
       
-        $("textarea:contains('FOLLOW UP')")
+        $("textarea:contains('3')")
         .parents('.list').css('background', orange);
       
-        $("textarea:contains('PRIMARY')")
+        $("textarea:contains('4')")
         .css('color', black)
         .parents('.list').css('background', yellow);
       
-        $("textarea:contains('OPEN')")
+        $("textarea:contains('5')")
         .parents('.list').css('background', green);
       
-        $("textarea:contains('BIG ONES')")
+        $("textarea:contains('6')")
         .css('color', white)
         .parents('.list').css('background', darkblue)
         .addClass('js-dark-list');
       
-        $("textarea:contains('ON HOLD')")
+        $("textarea:contains('7')")
         .css('color', white)
         .parents('.list').css('background', violet)
         .addClass('js-dark-list');
 
-        $("textarea:contains('ARCHIVE')")
+        $("textarea:contains('8')")
         .css('color', white)
         .parents('.list').css('background', magenta)
         .addClass('js-dark-list');
 
-        $("textarea:contains('DONE')")
+        $("textarea:contains('9')")
         .css('color', white)
         .parents('.list').css('background', dark)
         .addClass('js-dark-list');
