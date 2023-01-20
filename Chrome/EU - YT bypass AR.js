@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            [EU] - YT bypass AR
+// @name            [EU] - YT bypass Age Restriction
 // @description     Watch age restricted videos on YouTube without login and without age verification.
 // @version         1.0.5
 // @author          Kitt004
