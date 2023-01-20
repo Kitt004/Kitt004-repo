@@ -4,10 +4,10 @@ This repository is a bunch of self-projects to make my IT life easier and a litt
 
 ## SCRIPTS & CODE FOR WEB BROWSERS
 - [FIREFOX](https://github.com/Kitt004/Kitt004-repo/tree/master/Firefox)
-  - Tree Tab configuration
-  - CSS to modify the FIREFOX app
+  - Tree Tab Extension configuration
+  - CSS to modify the FIREFOX application window
 - [CHROME](https://github.com/Kitt004/Kitt004-repo/tree/master/Chrome)
-  - [YT BYPASS NEW AGE RESTRICTION](https://github.com/Kitt004/Kitt004-repo/blob/master/Chrome/EU%20-%20YT%20bypass%20AR.js)
+  - [YT BYPASS NEW AGE RESTRICTION](https://github.com/Kitt004/Kitt004-repo/blob/master/Chrome/EU%20-%20YT%20bypass%20AR.js): This works for all internet explorers and even mobile devices.
 
 ## CURRENT PROJECTS
 - [Password Generator](https://raw.githubusercontent.com/Kitt004/Kitt004-repo/master/Python/Pwd_generator.py)
