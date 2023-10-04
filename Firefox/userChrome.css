@@ -1,3 +1,5 @@
+// how to use it: https://www.userchrome.org/how-create-userchrome-css.html
+
 #TabsToolbar{
   visibility: collapse !important;
 }
